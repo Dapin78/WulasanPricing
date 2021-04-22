@@ -1,0 +1,6 @@
+﻿Reference;Customer Type;Customer Potential;Product;Conditionning;Unit Conditionning;Quantity
+Request 1;Reseller;4;H95;VK 1 Palette;5;80
+Request 2;Reseller;4;H95;VK 10 Kartons;1;164
+Request 3;B2B;3;F80;VK 10 Paletten;10;24
+Request 4;B2B;1;H95;VK 1/2 Palette;5;46
+Request 5;B2B;2;I55;VK 1 Palette;5;250
